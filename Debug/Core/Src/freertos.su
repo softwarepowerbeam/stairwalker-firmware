@@ -1,0 +1,7 @@
+../Core/Src/freertos.c:62:6:vApplicationStackOverflowHook	16	static,ignoring_inline_asm
+../Core/Src/freertos.c:89:6:vApplicationGetIdleTaskMemory	24	static
+../Core/Src/freertos.c:102:6:vApplicationGetTimerTaskMemory	24	static
+../Core/Src/freertos.c:116:6:MX_FREERTOS_Init	136	static
+../Core/Src/freertos.c:172:6:StartDefaultTask	56	static
+../Core/Src/freertos.c:208:6:startDebugTask	56	static
+../Core/Src/freertos.c:252:6:StartCtrlSystemTask	56	static

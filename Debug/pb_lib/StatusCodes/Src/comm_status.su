@@ -1,0 +1,9 @@
+C:\ST\STM32CubeIDE_1.16.1\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.200.202406191623\tools\bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/include/c++/12.3.1/system_error:226:5:std::error_code::error_code(int, const std::_V2::error_category&)	24	static
+C:/Users/Eduardo/STM32CubeIDE/firmware_libs/firmware-libs/StatusCodes/Src/comm_status.cpp:10:13:virtual const char* {anonymous}::CommStatusCategory::name() const	16	static
+C:/Users/Eduardo/STM32CubeIDE/firmware_libs/firmware-libs/StatusCodes/Src/comm_status.cpp:13:13:virtual std::string {anonymous}::CommStatusCategory::message(int) const	48	static
+C:/Users/Eduardo/STM32CubeIDE/firmware_libs/firmware-libs/StatusCodes/Src/comm_status.cpp:31:17:std::error_code make_error_code(CommStatus)	16	static
+C:/Users/Eduardo/STM32CubeIDE/firmware_libs/firmware-libs/StatusCodes/Src/comm_status.cpp:5:8:{anonymous}::CommStatusCategory::~CommStatusCategory()	16	static
+C:/Users/Eduardo/STM32CubeIDE/firmware_libs/firmware-libs/StatusCodes/Src/comm_status.cpp:5:8:virtual {anonymous}::CommStatusCategory::~CommStatusCategory()	16	static
+C:/Users/Eduardo/STM32CubeIDE/firmware_libs/firmware-libs/StatusCodes/Src/comm_status.cpp:33:1:void __static_initialization_and_destruction_0(int, int)	16	static
+C:/Users/Eduardo/STM32CubeIDE/firmware_libs/firmware-libs/StatusCodes/Src/comm_status.cpp:33:1:cpp)	8	static
+C:/Users/Eduardo/STM32CubeIDE/firmware_libs/firmware-libs/StatusCodes/Src/comm_status.cpp:33:1:cpp)	8	static

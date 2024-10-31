@@ -1,0 +1,9 @@
+C:\ST\STM32CubeIDE_1.16.1\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.200.202406191623\tools\bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/include/c++/12.3.1/system_error:226:5:std::error_code::error_code(int, const std::_V2::error_category&)	24	static
+C:/Users/Eduardo/STM32CubeIDE/firmware_libs/firmware-libs/StatusCodes/Src/h_bridge_status.cpp:11:14:virtual const char* {anonymous}::HBridgeStatusCategory::name() const	16	static
+C:/Users/Eduardo/STM32CubeIDE/firmware_libs/firmware-libs/StatusCodes/Src/h_bridge_status.cpp:15:14:virtual std::string {anonymous}::HBridgeStatusCategory::message(int) const	48	static
+C:/Users/Eduardo/STM32CubeIDE/firmware_libs/firmware-libs/StatusCodes/Src/h_bridge_status.cpp:35:17:std::error_code make_error_code(HBridgeStatus)	16	static
+C:/Users/Eduardo/STM32CubeIDE/firmware_libs/firmware-libs/StatusCodes/Src/h_bridge_status.cpp:5:9:{anonymous}::HBridgeStatusCategory::~HBridgeStatusCategory()	16	static
+C:/Users/Eduardo/STM32CubeIDE/firmware_libs/firmware-libs/StatusCodes/Src/h_bridge_status.cpp:5:9:virtual {anonymous}::HBridgeStatusCategory::~HBridgeStatusCategory()	16	static
+C:/Users/Eduardo/STM32CubeIDE/firmware_libs/firmware-libs/StatusCodes/Src/h_bridge_status.cpp:38:1:void __static_initialization_and_destruction_0(int, int)	16	static
+C:/Users/Eduardo/STM32CubeIDE/firmware_libs/firmware-libs/StatusCodes/Src/h_bridge_status.cpp:38:1:cpp)	8	static
+C:/Users/Eduardo/STM32CubeIDE/firmware_libs/firmware-libs/StatusCodes/Src/h_bridge_status.cpp:38:1:cpp)	8	static
